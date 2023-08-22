@@ -8,21 +8,21 @@ const CocktailList = () => {
     {
       id: 1,
       name: "Margarita",
-      image: {Magarita},
+      image: Magarita,
       info: "A classic cocktail made with tequila, lime juice, and orange liqueur.",
       glass: "Margarita glass"
     },
     {
       id: 2,
       name: "Martini",
-      image: {Martini},
+      image: Martini,
       info: "An elegant cocktail made with gin or vodka and vermouth, typically garnished with an olive or a twist of lemon.",
       glass: "Martini glass"
     },
     {
       id: 3,
       name: "Pina Colada",
-      image: {Pina},
+      image: Pina,
       info: "A tropical cocktail made with rum, coconut cream, and pineapple juice.",
       glass: "Hurricane glass"
     },

@@ -1,7 +1,8 @@
 import { Link } from 'react-router-dom'
 
 const Cocktail = ({image, name, id, info, glass}) => {
-  console.log('Image', image);
+  console.log('Image', Object.values(image));
+  // const []
   return (
     <article className='cocktail'>
      <div className='img-container'>
