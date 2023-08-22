@@ -11,7 +11,7 @@ Welcome to the Winery Clone Application! This project is a ReactJS application b
 
 ## Figma Design
 
-We've designed the user interface for this application using Figma. You can access the design by following this [[Figma Link](https://www.figma.com/file/rLTUxrQyytDgsIcZXnieSG/Website-Clone?type=design&node-id=0%3A1&mode=design&t=VEpAW3V5aoKCYTMN-1)]([insert_figma_link_here](https://www.figma.com/file/rLTUxrQyytDgsIcZXnieSG/Website-Clone?type=design&node-id=0%3A1&mode=design&t=VEpAW3V5aoKCYTMN-1)). Feel free to use it as a reference to match the UI and UX of your winery website.
+We've designed the user interface for this application using Figma. You can access the design by following this [[Figma Link](https://www.figma.com/file/rLTUxrQyytDgsIcZXnieSG/Website-Clone?type=design&node-id=0%3A1&mode=design&t=VEpAW3V5aoKCYTMN-1). Feel free to use it as a reference to match the UI and UX of your winery website.
 
 ## Getting Started
 
