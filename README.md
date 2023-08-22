@@ -2,8 +2,6 @@
 
 Welcome to the Winery Clone Application! This project is a ReactJS application built with Vite, designed to mimic the functionality and design of a winery website. If you're looking to create a beautiful and user-friendly winery website, you're in the right place.
 
-![screencapture-localhost-5173-2023-08-22-10_57_11](https://github.com/Thomasosho/AfriEdClone/assets/11132861/2c0b8bc5-3983-41e3-abec-0fb7891afae0)
-
 ## Features
 
 - **Homepage**: A visually appealing homepage showcasing your winery's branding, featured wines, and special offers.
@@ -11,7 +9,7 @@ Welcome to the Winery Clone Application! This project is a ReactJS application b
 
 ## Figma Design
 
-We've designed the user interface for this application using Figma. You can access the design by following this [[Figma Link](https://www.figma.com/file/rLTUxrQyytDgsIcZXnieSG/Website-Clone?type=design&node-id=0%3A1&mode=design&t=VEpAW3V5aoKCYTMN-1). Feel free to use it as a reference to match the UI and UX of your winery website.
+We've designed the user interface for this application using Figma. You can access the design by following this [Figma Link](https://www.figma.com/file/rLTUxrQyytDgsIcZXnieSG/Website-Clone?type=design&node-id=0%3A1&mode=design&t=VEpAW3V5aoKCYTMN-1). Feel free to use it as a reference to match the UI and UX of your winery website.
 
 ## Getting Started
 
